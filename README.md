@@ -40,7 +40,7 @@
 <!-- stats-->
 <h3 align="left">Estatíticas do perfil:</h3> 
 <div align="left" >
-  <img src="https://github-readme-stats.vercel.app/api?username=louisemorais&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=louisemorais&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louisemorais&layout=compact&theme=tokyonight&hide_border=true" />
 </div><br><br>
