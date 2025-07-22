@@ -33,7 +33,7 @@
 <h3 align="left">Linguagens e Tecnologias:</h3>    
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,spring,maven,postgresql,aws,docker,git,postman,idea,vscode,react,maven&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,python,spring,maven,postgresql,aws,docker,git,postman,idea,vscode,react&perline=8" />
   </a>
 </p>
 
