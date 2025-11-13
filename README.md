@@ -24,7 +24,7 @@
   <p align="center">
     <p align = "left">Sou estudante de Análise e Desenvolvimento de Sistemas no Senac,
     tenho interesse em atuar na área de desenvolvimento e conhecer novas tecnologias.
-    Atualmente estou estudando Java, Spring e PostgreSQL e futuramente entrarei no universo do frontend.<br><br>
+    <br><br>
    -  🌱 Estou aprendendo Atualmente <strong>Java, Spring, PostgreSQL e React</strong><br>
    -  ⚡ Fun fact: <strong>Curto desenhar</strong> 
     </p>
