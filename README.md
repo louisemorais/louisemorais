@@ -26,7 +26,7 @@
     tenho interesse em atuar na área de desenvolvimento e conhecer novas tecnologias.
     <br><br>
    -  🌱 Estou aprendendo Atualmente <strong>Java, Spring, PostgreSQL e React</strong><br>
-   -  ⚡ Fun fact: <strong>Curto desenhar</strong> 
+   -  ⚡ Fun fact: <strong>Curto desenhar e jogar</strong> 
     </p>
   </p>
 <!-- minhas tecnologias que domino-->
